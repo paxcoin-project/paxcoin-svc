@@ -1,0 +1,12 @@
+{
+    "description": "A full Bitcoin node build with Bitcore",
+    "repository": "https://github.com/user/project",
+    "license": "MIT",
+    "readme": "README.md",
+    "dependencies": {
+        "bitcore-lib": "https://github.com/paxcoin-project/paxcore-lib.git",
+        "bitcore-node": "https://github.com/paxcoin-project/bitcore-node.git",
+        "insight-pax": "https://github.com/paxcoin-project/insight-pax.git",
+        "insight-pax-api": "https://github.com/paxcoin-project/insight-pax-api.git"
+    }
+}
